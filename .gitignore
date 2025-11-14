@@ -3,7 +3,7 @@ venv
 .mypy_cache
 .idea
 __pycache__
-index.html
+i.html
 main.py
 style.css
 topics.json
