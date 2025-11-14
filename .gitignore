@@ -1,0 +1,9 @@
+config.py
+venv
+.mypy_cache
+.idea
+__pycache__
+index.html
+main.py
+style.css
+topics.json
